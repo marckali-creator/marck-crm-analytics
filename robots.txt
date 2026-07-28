@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marckali-creator.github.io/marck-crm-analytics/sitemap.xml

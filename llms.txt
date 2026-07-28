@@ -1,0 +1,24 @@
+# Marck CRM Analytics
+
+> Public web application and professional portfolio for Marck Ali, Account Manager and CRM Analytics Specialist.
+
+## Primary routes
+
+- App: https://marckali-creator.github.io/marck-crm-analytics/
+  - Browser-based CRM and merchant analytics dashboard.
+  - Supports lead paste/import, quarterly Store ID deduplication, analytics timeframes, campaign recommendations, outreach notes, dispositions, and calendar handoff.
+  - The public build contains fictional demo merchants only.
+  - User-imported leads, notes, reports, and preferences remain in that browser's local storage.
+
+- Portfolio: https://marckali-creator.github.io/marck-crm-analytics/portfolio.html
+  - Professional overview, selected impact metrics, partner success case study, competencies, scheduling, and contact details.
+
+## Contact and scheduling
+
+- Schedule: https://doordashddmx.orthisbe.com/c/marck-aliext-doordash-com-lem
+
+## Usage notes
+
+- This static site does not provide a public API.
+- Do not infer that demo merchant records represent real businesses.
+- Do not expose or request browser-local CRM data without the user's explicit authorization.
