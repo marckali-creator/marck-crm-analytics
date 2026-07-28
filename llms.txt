@@ -10,6 +10,12 @@
   - The public build contains fictional demo merchants only.
   - User-imported leads, notes, reports, and preferences remain in that browser's local storage.
 
+- Client profiles: https://marckali-creator.github.io/marck-crm-analytics/#clients
+  - Focused workspace for one complete profile per restaurant.
+  - Imports Google Sheets data by pasted rows or CSV/TSV upload.
+  - Saves dated notes, the last call, call outcome, next follow-up, account goal, and contact details in the current browser.
+  - Includes a global follow-up agenda and downloadable JSON backup.
+
 - Portfolio: https://marckali-creator.github.io/marck-crm-analytics/portfolio.html
   - Professional overview, selected impact metrics, partner success case study, competencies, scheduling, and contact details.
 

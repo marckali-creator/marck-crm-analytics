@@ -6,5 +6,6 @@ The public build contains demo merchants only. Leads pasted into the app are sto
 
 ## Routes
 
-- CRM: https://marckali-creator.github.io/marck-crm-analytics/
+- CRM Analytics: https://marckali-creator.github.io/marck-crm-analytics/
+- Client Profiles: https://marckali-creator.github.io/marck-crm-analytics/#clients
 - Portfolio: https://marckali-creator.github.io/marck-crm-analytics/portfolio.html
